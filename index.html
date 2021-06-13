@@ -54,14 +54,25 @@
   a {
       transition: color 0.8s linear 0.2s;
   }
+  div {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align:center;
+}
+  table {
+  border-collapse: collapse;
+  border:0
+}
 </style>
 
 <body>
 
-  <table style="HEIGHT:100%;WIDTH:100%;" border=0>
+  <table style="HEIGHT:100%;WIDTH:100%;" >
     <tr align="center" bottom="middle">
       <td>
-        <table border=0>
+        <table >
           <tr>
             <td colspan="3">
               <a href="https://psga.github.io/k011">
@@ -79,20 +90,24 @@
             </td>
           </tr>
           <tr>
-            <td height="20"></td>
+            <td height="15"></td>
           </tr>
           <tr>
-            <td width="33%">
+            <td height="40" width="33%">
 
-              <center><a href="https://www.instagram.com/pb.su/">I</a></center>
+              <a href="https://www.instagram.com/pb.su/">
+		      <div style="height:100%;width:100%">I</div></a>
+
             </td>
-            <td width="33%">
+            <td height="40" width="33%">
 
-              <center><a href="https://www.github.com/psga">G</a></center>
+              <a href="https://www.github.com/psga">
+		 <div style="height:100%; width:100%">G</div></a>
             </td>
-            <td width="33%">
+            <td height="40" width="33%">
 
-              <center><a href="https://steamcommunity.com/id/zyrba">S</a></center>
+              <a href="https://steamcommunity.com/id/zyrba">
+		 <div style="height:100%;width:100%">S</div></a>
             </td>
           </tr>
       </td>

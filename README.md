@@ -1,22 +1,28 @@
 # pusu
 
-This repository contains a basic web page named "pusu" created using HTML and CSS.
+A basic web page created using HTML and CSS. https://psga.github.io/pusu/
 
 ## Overview
 
-"Pusu" is a simple web page designed to showcase foundational skills in web development using HTML and CSS. It includes basic styling and layout techniques commonly used in web design.
+"pusu" is a simple demonstration of HTML and CSS skills, showcasing basic web design principles.
 
 ## Features
 
-- **HTML Structure**: The page is structured using semantic HTML5 elements for better accessibility and SEO.
-- **CSS Styling**: Basic CSS rules are applied to style elements such as typography, colors, margins, and paddings.
-- **Responsive Design**: The page is designed to be responsive and should adapt reasonably to different screen sizes.
+- Structured with semantic HTML5 elements.
+- Styled with basic CSS for layout, typography, and responsiveness.
 
-## Installation
+## Usage
 
-To view the "pusu" web page locally, follow these steps:
+Clone the repository and open `index.html` in a web browser to view the "pusu" page locally.
 
-1. Clone the repository:
+## Contributing
 
-   ```bash
-   git clone https://github.com/psga/pusu.git
+Feel free to fork the repository, make your changes, and submit a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+© 2024 psga

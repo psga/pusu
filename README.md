@@ -12,8 +12,7 @@ A basic web page created using HTML and CSS. https://psga.github.io/pusu/
 - Styled with basic CSS for layout, typography, and responsiveness.
 
 ## Usage
-
-Clone the repository and open `index.html` in a web browser to view the "pusu" page locally.
+the cursor is too small, specifically **one pixel**. Here are some of my social networks in each letter
 
 ## Contributing
 
